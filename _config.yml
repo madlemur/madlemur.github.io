@@ -26,7 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.madlemur.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kvcummins
 github_username:  madlemur
-repository: madlemur.github.io
 
 # Build settings
 theme: jekyll-theme-dinky
@@ -36,6 +35,7 @@ plugins:
 lsi: false
 safe: true
 source: 
+repository: madlemur.github.io
 incremental: false
 highlighter: rouge
 gist:
