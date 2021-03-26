@@ -35,7 +35,6 @@ plugins:
 lsi: false
 safe: true
 source: 
-repository: 
 incremental: false
 highlighter: rouge
 gist:
