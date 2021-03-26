@@ -26,7 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.madlemur.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kvcummins
 github_username:  madlemur
-repository:
+repository: madlemur.github.io
+
 # Build settings
 theme: jekyll-theme-dinky
 plugins:
